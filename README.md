@@ -4,6 +4,8 @@
 
 Este projeto é um aplicativo de filmes desenvolvido em Flutter, com o objetivo de demonstrar habilidades de desenvolvimento mobile, incluindo o consumo de APIs, gerenciamento de estado e navegação entre telas. O aplicativo permite ao usuário explorar listas de filmes populares, em cartaz e com as melhores avaliações, além de pesquisar por títulos específicos e gerenciar uma lista de filmes favoritos.
 
+---
+
 ### Recursos
 
 - **Exploração de Filmes**: Navegue por listas categorizadas de filmes (Populares, Em Cartaz e Melhores Avaliados).
