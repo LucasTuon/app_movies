@@ -46,6 +46,7 @@ As principais chamadas API usadas no projeto são:
 - **Mais Categorias**: Adicionar mais seções de filmes, como os que serão lançados em breve.
 - **Pagina de Mais**: A Pagina de mais ainda é só um conceito, não tendo sua implementação real.
 - **Testes**: Escrever testes unitários e de widget para garantir a estabilidade e o bom funcionamento do código.
+- **Acessibilidade: Implementar recursos de acessibilidade**
 
 ---
 
