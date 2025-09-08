@@ -16,7 +16,7 @@ Este projeto é um aplicativo de filmes desenvolvido em Flutter, com o objetivo 
 
 ### Imagens
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2aad8f59-2b69-427d-b36f-d0420990e38c" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5313e6f3-0656-4e23-9bde-8a474b25a964" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/965e3fe1-964d-4384-b14a-0cc3d1326789" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/a061abe9-657c-4d93-8d66-18943ce1666d" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f8cdd3f0-b6f5-492e-bf4f-8dec6faae904" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/2aad8f59-2b69-427d-b36f-d0420990e38c" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5313e6f3-0656-4e23-9bde-8a474b25a964" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/965e3fe1-964d-4384-b14a-0cc3d1326789" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/a061abe9-657c-4d93-8d66-18943ce1666d" /> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f8cdd3f0-b6f5-492e-bf4f-8dec6faae904" />
 
 
 
