@@ -14,6 +14,17 @@ Este projeto é um aplicativo de filmes desenvolvido em Flutter, com o objetivo 
 
 ---
 
+### Imagens
+
+<img width="410" height="860" alt="image" src="https://github.com/user-attachments/assets/2aad8f59-2b69-427d-b36f-d0420990e38c" /> <img width="410" height="850" alt="image" src="https://github.com/user-attachments/assets/5313e6f3-0656-4e23-9bde-8a474b25a964" /> <img width="404" height="860" alt="image" src="https://github.com/user-attachments/assets/965e3fe1-964d-4384-b14a-0cc3d1326789" /> <img width="405" height="863" alt="image" src="https://github.com/user-attachments/assets/a061abe9-657c-4d93-8d66-18943ce1666d" /> <img width="402" height="866" alt="image" src="https://github.com/user-attachments/assets/f8cdd3f0-b6f5-492e-bf4f-8dec6faae904" />
+
+
+
+
+
+
+---
+
 ### API
 
 Este aplicativo utiliza a API pública do **The Movie Database (TMDB)** para obter todas as informações sobre filmes e atores. A chave da API está configurada no arquivo `movie_services.dart` e é necessária para que as requisições funcionem.
