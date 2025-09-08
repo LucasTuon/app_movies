@@ -45,6 +45,6 @@ As principais chamadas API usadas no projeto são:
 - **API TMDB**: [https://developer.themoviedb.org/docs](https://developer.themoviedb.org/docs)
 - **Ícones do Google (Material Icons)**: [https://fonts.google.com/icons](https://fonts.google.com/icons)
 - **Barra de Navegação (BottomAppBar)**: [https://api.flutter.dev/flutter/material/BottomAppBar-class.html](https://api.flutter.dev/flutter/material/BottomAppBar-class.html)
-- **Guia para Consumo da API TMDB**: [Medium](https://medium.com/@amrendrachoudhary664/movie-app-in-flutter-with-tmdb-api-a9c08647e33e) [GeeksforGeeks](https://www.geeksforgeeks.org/flutter-rest-api-with-the-movie-database-tmdb/)
+- **Guia para Consumo da API TMDB**: [DEV Comunnity(https://dev.to/alamjamshed17777/getting-started-with-the-tmdb-api-a-beginners-guide-52li)
 - **Tutorial Oficial do Flutter**: [https://www.youtube.com/watch?v=8sAyPDLorek](https://www.youtube.com/watch?v=8sAyPDLorek)
 - **Vídeo do Felipe Deschamps**: [https://www.youtube.com/watch?v=J4BVaXkwmM8](https://www.youtube.com/watch?v=J4BVaXkwmM8)
